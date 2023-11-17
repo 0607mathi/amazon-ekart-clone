@@ -1,0 +1,302 @@
+<div class="dropdown d-flex text-center align-items-center">
+                        <select>
+                            <option value="">All</option>
+                            <option value="">All Categories</option>
+                            <option value="">Alexa Skills</option>
+                            <option value="">Amazon Devices</option>
+                            <option value="">Amazon Fashion</option>
+                            <option value="">Amazon Fresh</option>
+                            <option value="">Amazon Pharmacy</option>
+                            <option value="">Appliances</option>
+                            <option value="">Apps & Games</option>
+                            <option value="">Audible Audiobooks</option>
+                            <option value="">Baby</option>
+                            <option value="">Beauty</option>
+                            <option value="">Books</option>
+                            <option value="">Car & Motorbike</option>
+                            <option value="">Clothing & Accessories</option>
+                            <option value="">Collectibles</option>
+                            <option value="">Computer & Accessories</option>
+                            <option value="">Electronics</option>
+                            <option value="">Furniture</option>
+                            <option value="">Garden & Outdoors</option>
+                            <option value="">Gift Cards</option>
+                            <option value="">Grocery & Gourments Foods</option>
+                            <option value="">Health & Personal Care</option>
+                            <option value="">Home & Kitchen</option>
+                            <option value="">Industrial & Scientific</option>
+                            <option value="">Jewellery</option>
+                            <option value="">Kindle Store</option>
+                            <option value="">Luggage & Bag</option>
+                            <option value="">Luxury Beaty</option>
+                            <option value="">Movies & TV Shows</option>
+                            <option value="">Music</option>
+                            <option value="">Musical Instruments</option>
+                            <option value="">Office Products</option>
+                        </select>
+                    </div>
+
+/* Amazon font family */
+@import url(https://db.onlinewebfonts.com/c/157c6cc36dd65b1b2adc9e7f3329c761?family=Amazon+Ember+Regular);
+font-family: "Amazon Ember Regular";
+
+ <link rel="shortcut icon" href="https://as2.ftcdn.net/v2/jpg/02/94/54/07/1000_F_294540722_VIwSWyrU6q781SkHWSlzUDXjfouRlj47.jpg"  type="image/x-icon">
+ <title>Online Shopping site in India: Shop Online for Mobiles, Books, watches....</title>
+
+ <div class="boat-product product-row-2 pt-4 pb-3 p-2 border">
+        <h5 class="ml-3">Starting ₹99 | Toys for your<br> kids </h5>
+        <div class="imgs4 d-flex m-3">
+          <div class="boat-img d-flex flex-column">
+            <img src="Images/toys-1.jpg" class="img-fluid" alt="Toys">
+            <span>Starting ₹299 | Bikes, trikes & ride-ons</span>
+          </div>
+          <div class="boat-img d-flex flex-column ml-3">
+            <img src="Images/toys-2.jpg" class="img-fluid" alt="Toys">
+            <span>Starting ₹149 | Sport & outdoor</span>
+          </div>
+        </div>
+        <div class="imgs4 d-flex mt-4 ml-3 mb-3 second-row-images">
+          <div class="boat-img d-flex flex-column">
+            <img src="Images/toys-3.jpg" class="img-fluid" alt="Toys">
+            <span>Starting ₹99 | Soft toys</span>
+          </div>
+          <div class="boat-img d-flex flex-column ml-3">
+            <img src="Images/toys-4.jpg" class="img-fluid" alt="Toys">
+            <span>Starting ₹199 | Indoor games</span>
+          </div>
+        </div>
+        <span class="see-all-offer ml-3">See more</span>
+      </div>
+
+
+<div class="slider-container-2 mt-3">
+      <div class="outer-box pb-2">
+        <div class="d-flex align-items-center">
+          <span class="today-deals-content-1">Bestsellers from women owned businesses</span><span class="today-deals-content-2">See all offers</span>
+        </div>
+        <div class="d-flex scroll-box kitchen-img p-2 pb-3">
+          <img src="./Images/healthcare-1.jpg" class="img-fluid m-1 ml-4" alt="kitchen-products">
+          <img src="./Images/healthcare-2.jpg" class="img-fluid m-1 ml-4" alt="kitchen-products">
+          <img src="./Images/healthcare-3.jpg" class="img-fluid m-1 ml-4" alt="kitchen-products">
+          <img src="./Images/healthcare-4.jpg" class="img-fluid m-1 ml-4" alt="kitchen-products">
+          <img src="./Images/healthcare-5.jpg" class="img-fluid m-1 ml-4" alt="kitchen-products">
+          <img src="./Images/healthcare-6.jpg" class="img-fluid m-1 ml-4" alt="kitchen-products">
+          <img src="./Images/healthcare-7.jpg" class="img-fluid m-1 ml-4" alt="kitchen-products">
+          <img src="./Images/healthcare-8.jpg" class="img-fluid m-1 ml-4" alt="kitchen-products">
+          <img src="./Images/healthcare-9.jpg" class="img-fluid m-1 ml-4" alt="kitchen-products">
+          <img src="./Images/healthcare-10.jpg" class="img-fluid m-1 ml-4" alt="kitchen-products">
+          <img src="./Images/healthcare-11.jpg" class="img-fluid m-1 ml-4" alt="kitchen-products">
+          <img src="./Images/healthcare-12.jpg" class="img-fluid m-1 ml-4" alt="kitchen-products">
+          <img src="./Images/healthcare-13.jpg" class="img-fluid m-1 ml-4" alt="kitchen-products">
+          <img src="./Images/healthcare-14.jpg" class="img-fluid m-1 ml-4" alt="kitchen-products">
+          <img src="./Images/healthcare-15.jpg" class="img-fluid m-1 ml-4" alt="kitchen-products">
+          <img src="./Images/healthcare-16.jpg" class="img-fluid m-1 ml-4" alt="kitchen-products">
+          <img src="./Images/healthcare-17.jpg" class="img-fluid m-1 ml-4" alt="kitchen-products">
+          <img src="./Images/healthcare-18.jpg" class="img-fluid m-1 ml-4" alt="kitchen-products">
+          <img src="./Images/healthcare-19.jpg" class="img-fluid m-1 ml-4" alt="kitchen-products">
+          <img src="./Images/healthcare-20.jpg" class="img-fluid m-1 ml-4" alt="kitchen-products">
+        </div>
+      </div>
+    </div>
+
+
+
+     <div class="product-bill border border-primary d-flex flex-column align-items-center">
+            <img src="./Images/saree-1.jpg" width="40%" class="img-fluid mt-2" alt="">
+            <span>KLOSIA Women Printed Kurta and Pant Set with Dupatta</span>
+            <div class="star align-self-start mt-2">
+              <div class="d-flex flex-row">
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <span>550</span>
+              </div>
+              <div class="amount d-flex flex-column">
+                <span>₹469.00</span>
+                <span>Get it by Friday, November 17</span>
+                <span>FREE Delivery by Amazon</span>
+              </div>
+            </div>
+          </div>
+          <!--  -->
+          <div class="product-bill border border-primary d-flex flex-column align-items-center">
+            <img src="./Images/saree-1.jpg" width="40%" class="img-fluid mt-2" alt="">
+            <span>KLOSIA Women Printed Kurta and Pant Set with Dupatta</span>
+            <div class="star align-self-start mt-2">
+              <div class="d-flex flex-row">
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <span>550</span>
+              </div>
+              <div class="amount d-flex flex-column">
+                <span>₹469.00</span>
+                <span>Get it by Friday, November 17</span>
+                <span>FREE Delivery by Amazon</span>
+              </div>
+            </div>
+          </div>
+          <!--  -->
+          <div class="product-bill border border-primary d-flex flex-column align-items-center">
+            <img src="./Images/saree-1.jpg" width="40%" class="img-fluid mt-2" alt="">
+            <span>KLOSIA Women Printed Kurta and Pant Set with Dupatta</span>
+            <div class="star align-self-start mt-2">
+              <div class="d-flex flex-row">
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <span>550</span>
+              </div>
+              <div class="amount d-flex flex-column">
+                <span>₹469.00</span>
+                <span>Get it by Friday, November 17</span>
+                <span>FREE Delivery by Amazon</span>
+              </div>
+            </div>
+          </div>
+          <!--  -->
+          <div class="product-bill border border-primary d-flex flex-column align-items-center">
+            <img src="./Images/saree-1.jpg" width="40%" class="img-fluid mt-2" alt="">
+            <span>KLOSIA Women Printed Kurta and Pant Set with Dupatta</span>
+            <div class="star align-self-start mt-2">
+              <div class="d-flex flex-row">
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <span>550</span>
+              </div>
+              <div class="amount d-flex flex-column">
+                <span>₹469.00</span>
+                <span>Get it by Friday, November 17</span>
+                <span>FREE Delivery by Amazon</span>
+              </div>
+            </div>
+          </div>
+          <!--  -->
+          <div class="product-bill border border-primary d-flex flex-column align-items-center">
+            <img src="./Images/saree-1.jpg" width="40%" class="img-fluid mt-2" alt="">
+            <span>KLOSIA Women Printed Kurta and Pant Set with Dupatta</span>
+            <div class="star align-self-start mt-2">
+              <div class="d-flex flex-row">
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <span>550</span>
+              </div>
+              <div class="amount d-flex flex-column">
+                <span>₹469.00</span>
+                <span>Get it by Friday, November 17</span>
+                <span>FREE Delivery by Amazon</span>
+              </div>
+            </div>
+          </div>
+          <!--  -->
+          <div class="product-bill border border-primary d-flex flex-column align-items-center">
+            <img src="./Images/saree-1.jpg" width="40%" class="img-fluid mt-2" alt="">
+            <span>KLOSIA Women Printed Kurta and Pant Set with Dupatta</span>
+            <div class="star align-self-start mt-2">
+              <div class="d-flex flex-row">
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <span>550</span>
+              </div>
+              <div class="amount d-flex flex-column">
+                <span>₹469.00</span>
+                <span>Get it by Friday, November 17</span>
+                <span>FREE Delivery by Amazon</span>
+              </div>
+            </div>
+          </div>
+          <!--  -->
+          <div class="product-bill border border-primary d-flex flex-column align-items-center">
+            <img src="./Images/saree-1.jpg" width="40%" class="img-fluid mt-2" alt="">
+            <span>KLOSIA Women Printed Kurta and Pant Set with Dupatta</span>
+            <div class="star align-self-start mt-2">
+              <div class="d-flex flex-row">
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <span>550</span>
+              </div>
+              <div class="amount d-flex flex-column">
+                <span>₹469.00</span>
+                <span>Get it by Friday, November 17</span>
+                <span>FREE Delivery by Amazon</span>
+              </div>
+            </div>
+          </div>
+          <div class="product-bill border border-primary d-flex flex-column align-items-center">
+            <img src="./Images/saree-1.jpg" width="40%" class="img-fluid mt-2" alt="">
+            <span>KLOSIA Women Printed Kurta and Pant Set with Dupatta</span>
+            <div class="star align-self-start mt-2">
+              <div class="d-flex flex-row">
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <span>550</span>
+              </div>
+              <div class="amount d-flex flex-column">
+                <span>₹469.00</span>
+                <span>Get it by Friday, November 17</span>
+                <span>FREE Delivery by Amazon</span>
+              </div>
+            </div>
+          </div>
+          <!--  -->
+          <div class="product-bill border border-primary d-flex flex-column align-items-center">
+            <img src="./Images/saree-1.jpg" width="40%" class="img-fluid mt-2" alt="">
+            <span>KLOSIA Women Printed Kurta and Pant Set with Dupatta</span>
+            <div class="star align-self-start mt-2">
+              <div class="d-flex flex-row">
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <span>550</span>
+              </div>
+              <div class="amount d-flex flex-column">
+                <span>₹469.00</span>
+                <span>Get it by Friday, November 17</span>
+                <span>FREE Delivery by Amazon</span>
+              </div>
+            </div>
+          </div>
+          <!--  -->
+          <div class="product-bill border border-primary d-flex flex-column align-items-center">
+            <img src="./Images/saree-1.jpg" width="40%" class="img-fluid mt-2" alt="">
+            <span>KLOSIA Women Printed Kurta and Pant Set with Dupatta</span>
+            <div class="star align-self-start mt-2">
+              <div class="d-flex flex-row">
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <i class="bi bi-star text-warning mr-1"></i>
+                <span>550</span>
+              </div>
+              <div class="amount d-flex flex-column">
+                <span>₹469.00</span>
+                <span>Get it by Friday, November 17</span>
+                <span>FREE Delivery by Amazon</span>
+              </div>
+            </div>
+          </div>
+          <!--  -->
